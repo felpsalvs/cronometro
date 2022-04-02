@@ -3,7 +3,7 @@
 
 
 ### 🔖 Sobre
-Cronômetro desenvolvido para colocar em prática os conceitos aprendidos sobre states, props e componentes. O projeto consiste em iniciar uma contagem, pausar e limpar. O projeto é simples, foi feito como exercício no curso Fábrica de aplicativos.
+Cronômetro desenvolvido para colocar em prática os conceitos aprendidos sobre states, props e componentes. O projeto consiste em iniciar uma contagem, pausar e limpar. O projeto foi feito como exercício no curso Fábrica de aplicativos.
     
 ### 🚀 Tecnologias
 Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
